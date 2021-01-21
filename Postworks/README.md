@@ -1,6 +1,6 @@
-#Postworks Programación y estadística con R (Santander)
+# Postworks Programación y estadística con R (Santander)
 
-##Sesión 1: Introducción a R y Software
+## Sesión 1: Introducción a R y Software
 #### Objetivo
 
 El Postwork tiene como objetivo que practiques los comandos básicos aprendidos durante la sesión, de tal modo que sirvan para reafirmar el conocimiento. Recuerda que la programación es como un deporte en el que se debe practicar, habrá caídas, pero lo importante es levantarse y seguir adelante. Éxito
@@ -27,7 +27,7 @@ Posteriormente elabora tablas de frecuencias relativas para estimar las siguient
 
 
 
-##Sesión 2: Programación y manipulación de datos en R
+## Sesión 2: Programación y manipulación de datos en R
 #### Objetivo
 
 - Importar múltiples archivos csv a `R`
@@ -53,7 +53,7 @@ Ahora vamos a generar un cúmulo de datos mayor al que se tenía, esta es una si
 
 
 
-##Sesión 3: Análisis Exploratorio de Datos (AED o EDA) con R
+## Sesión 3: Análisis Exploratorio de Datos (AED o EDA) con R
 #### Objetivo
 
 - Realizar descarga de archivos desde internet
@@ -86,7 +86,7 @@ Ahora graficaremos probabilidades (estimadas) marginales y conjuntas para el nú
 
 
 
-##Sesión 4: Algunas distribuciones, teorema central del límite y contraste de hipótesis
+## Sesión 4: Algunas distribuciones, teorema central del límite y contraste de hipótesis
 #### Objetivo
 
 - Investigar la dependencia o independecia de las variables aleatorias X y Y, el número de goles anotados por el equipo de casa y el número de goles anotados por el equipo visitante.
@@ -106,7 +106,7 @@ Ahora investigarás la dependencia o independencia del número de goles anotados
 
 
 
-##Sesión 5: Regresión lineal y clasificación
+## Sesión 5: Regresión lineal y clasificación
 #### OBJETIVO
 
 - Continuar con el desarrollo de los postworks; en esta ocasión se utiliza la función `predict` para realizar predicciones de los resultados de partidos para una fecha determinada
