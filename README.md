@@ -1,4 +1,4 @@
-# BEDU-Santander-Etapa-2
+# BEDU Santander - Etapa 2
 
 Etapa 2 del curso de Data Science en BEDU Santander
 
